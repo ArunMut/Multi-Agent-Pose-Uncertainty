@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Multi-Agent Pose Uncertainty: A Differentiable Rendering Cramér--Rao Bound"
+message: "If you use this library, please cite the accompanying paper."
+authors:
+  - family-names: Muthukkumar
+    given-names: Arun
+date-released: "2025"
+repository-code: https://github.com/ArunMut/Multi-Agent-Pose-Uncertainty
+url: arXiv preprint coming soon
+abstract: "Presented at ICCV 2025 Workshop on Large Scale Cross Device Localization."

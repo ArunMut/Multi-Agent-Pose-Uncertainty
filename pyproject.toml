@@ -1,0 +1,17 @@
+[project]
+name = "multi-agent-pose-uncertainty"
+version = "0.1.0"
+description = "Multi-agent pose uncertainty analysis with differentiable rendering-aware Cramér--Rao bounds"
+authors = [{name = "Arun Muthukkumar"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.22",
+]
+
+[project.urls]
+Homepage = "https://github.com/ArunMut/Multi-Agent-Pose-Uncertainty"
+
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"

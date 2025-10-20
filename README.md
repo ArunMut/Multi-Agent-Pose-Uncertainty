@@ -64,13 +64,12 @@ If you find this library useful in your research, please cite the paper
 using the following BibTeX entry:
 
 ```
-@inproceedings{muthukkumar2025multiagent,
-  title     = {Multi-Agent Pose Uncertainty: A Differentiable Rendering {Cramér--Rao Bound}},
-  author    = {Muthukkumar, Arun},
-  booktitle = {ICCV 2025 Workshop on Large Scale Cross Device Localization},
-  year      = {2025},
-  note      = {},
-  url       = {arXiv preprint coming soon}
+@inproceedings{
+muthukkumar2025multiagent,
+  title={Multi-Agent Pose Uncertainty: A Differentiable Rendering {Cramér--Rao Bound}},
+  author={Arun Muthukkumar},
+  booktitle={ICCV 2025 Workshop on Large Scale Cross Device Localization},
+  year={2025},
+  url={https://openreview.net/forum?id=mXJ8waZdSv}
 }
-
 ```
